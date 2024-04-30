@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
 </div>
 <h1 align="center" style="color: black;">Hi 👋, I'm Johan</h1>
-<h3 align="center" style="color: black;">A passionate Data Scientist who loves to dive deep into Data!</h3>
+<h3 align="center" style="color: black;">Aspiring Data Scientist who loves diving deep into data!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanghre&label=Profile%20views&color=0e75b6&style=flat" alt="johanghre" /> </p>
